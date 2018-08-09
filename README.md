@@ -1,2 +1,2 @@
 # PocketGameCore
-LobbyItems For MiniGame Server! Made By MTwin
+LobbyItems For MiniGame Server! Made By MTwins
