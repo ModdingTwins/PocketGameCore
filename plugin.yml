@@ -1,15 +1,15 @@
 name: PocketGameCore
 version: 0.2
 main: Core\Main
-api: [3.0.0, 4.0.0]
+api: [3.0.0]
 author: MTwins
-commands:
-  hub:
-    description: hub
-    usage: /hub
-  lobby:
-    description: lobby
-    usage: /lobby
 permissions:
   lobby.yt:
     default: op
+commands:
+  hub:
+     description: hub
+     usage: /hub
+  lobby:
+     description: lobby
+     usage: /lobby
